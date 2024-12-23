@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("You Have Been Detected By Anti Cheat You Are Banned For 10 Seconds.")
